@@ -1,4 +1,5 @@
-# K8s Kind Voting App
+# kind-voting-app---Monitoring-grafa-prom
+
 
 A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
 
@@ -55,6 +56,5 @@ Achieved seamless scaling and high availability, supporting 99.9% uptime for cri
 This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
 
 
-### Aapke DevOps Wale Bhaiya
-### [TrainWithShubham](https://www.trainwithshubham.com/)
+
 
